@@ -1,8 +1,8 @@
  # todo-list
 
-🚀 React + Tailwind CSS Web App
+🚀 React + Tailwind  Web App
 
-## 🧠 task mangement form(add-delete-update)task
+## 🧠 task mangement (add-delete-update) task
 
 ## 🛠 Tech Used
 - React.js
@@ -12,4 +12,5 @@
 
 ## 🔗 Links
 🌍 Live Demo: https://noor1eng.github.io/todo-list/
+
 🐙 GitHub Repo: https://github.com/noor1eng/todo-list
